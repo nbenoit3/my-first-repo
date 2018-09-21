@@ -10,3 +10,5 @@ function marinaraSauce() {
 }
 
 marinaraSauce();
+
+console.log(`This is a great recipe!`);
